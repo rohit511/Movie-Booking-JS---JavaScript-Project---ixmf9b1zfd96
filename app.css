@@ -60,8 +60,8 @@ main{
 }
 .movie-img-wrapper{
     background-size: cover;
-    width: auto;
-    height: 250px;
+     width:300px;
+    height: 400px;
 }
 #booker{
     display: flex;
